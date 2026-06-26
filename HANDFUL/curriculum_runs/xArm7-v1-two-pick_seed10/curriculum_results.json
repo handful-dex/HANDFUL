@@ -1,0 +1,37 @@
+{
+  "env_id": "xArm7-v1-two-pick",
+  "seed": 10,
+  "no_cull": false,
+  "stages": [
+    {
+      "stage": 1,
+      "difficulty": 1,
+      "metrics": {},
+      "survivors": [],
+      "pruned": [
+        "fingers_0_1_2_3_active_1_palm_True_seed_10",
+        "fingers_0_1_2_3_active_2_palm_True_seed_10",
+        "fingers_0_2_1_3_active_2_palm_False_seed_10",
+        "fingers_1_0_2_3_active_1_palm_True_seed_10",
+        "fingers_1_2_0_3_active_2_palm_True_seed_10",
+        "fingers_2_0_1_3_active_1_palm_True_seed_10",
+        "fingers_3_0_1_2_active_2_palm_False_seed_10",
+        "fingers_3_1_0_2_active_2_palm_False_seed_10",
+        "fingers_3_2_0_1_active_2_palm_False_seed_10"
+      ],
+      "best_checkpoints": {
+        "fingers_0_1_2_3_active_1_palm_True_seed_10": null,
+        "fingers_0_1_2_3_active_2_palm_True_seed_10": null,
+        "fingers_0_2_1_3_active_2_palm_False_seed_10": null,
+        "fingers_1_0_2_3_active_1_palm_True_seed_10": null,
+        "fingers_1_2_0_3_active_2_palm_True_seed_10": null,
+        "fingers_2_0_1_3_active_1_palm_True_seed_10": null,
+        "fingers_3_0_1_2_active_2_palm_False_seed_10": null,
+        "fingers_3_1_0_2_active_2_palm_False_seed_10": null,
+        "fingers_3_2_0_1_active_2_palm_False_seed_10": null
+      }
+    }
+  ],
+  "final_survivors": [],
+  "final_checkpoints": {}
+}
