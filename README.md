@@ -59,7 +59,7 @@ For more details about installation (e.g. from source, or doing troubleshooting)
 ### 3. HANDFUL Clone & Requirements
 
 ```bash
-git clone PLACEHOLDER_FOR_LINK_TO_REPOSITORY
+git clone https://github.com/handful-dex/HANDFUL.git
 cd HANDFUL/
 pip install -r requirements.txt
 cd HANDFUL/
